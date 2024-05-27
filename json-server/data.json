@@ -1,0 +1,24 @@
+{
+    "data" : [
+        {
+            "url" : "https://api.example.com/users",
+            "registered" : true
+        },
+        {
+            "url" : "https://api.example.com/products",
+            "registered" : true
+        },
+        {
+            "url" : "https://api.example.com/services",
+            "registered" : false
+        },
+        {
+            "url" : "https://api.example.com/contacts",
+            "registered" : false
+        },
+        {
+            "url" : "https://api.example.com/orders",
+            "registered" : true
+        }
+    ]
+}
